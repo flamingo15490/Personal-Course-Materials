@@ -1,0 +1,45 @@
+作品质量分析报告
+============================================================
+Analysis Time: 2026-03-20 01:04:32
+
+一、基本统计信息
+----------------------------------------
+Total Works: 797
+Number of Categories: 12
+Score Pattern Types: 10
+
+二、总分统计分析
+----------------------------------------
+Average Total Score: 1.26
+Median Total Score: 1.0
+Std of Total Score: 1.31
+Score Range: 0 - 6
+
+三、总分分布详情
+----------------------------------------
+Score 0: 300 works ( 37.6%)
+Score 1: 196 works ( 24.6%)
+Score 2: 166 works ( 20.8%)
+Score 3:  81 works ( 10.2%)
+Score 4:  39 works (  4.9%)
+Score 5:  10 works (  1.3%)
+Score 6:   5 works (  0.6%)
+
+四、质量等级统计
+----------------------------------------
+低质量: 662 works ( 83.1%)
+中等质量: 120 works ( 15.1%)
+高质量:  15 works (  1.9%)
+
+五、主要得分构型统计
+----------------------------------------
+Pattern 000 (Score0): 300 works ( 37.6%)
+Pattern 100 (Score1): 196 works ( 24.6%)
+Pattern 110 (Score2): 134 works ( 16.8%)
+Pattern 210 (Score3):  45 works (  5.6%)
+Pattern 111 (Score3):  36 works (  4.5%)
+Pattern 211 (Score4):  32 works (  4.0%)
+Pattern 200 (Score2):  32 works (  4.0%)
+Pattern 221 (Score5):  10 works (  1.3%)
+Pattern 220 (Score4):   7 works (  0.9%)
+Pattern 222 (Score6):   5 works (  0.6%)
