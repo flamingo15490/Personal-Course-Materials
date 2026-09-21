@@ -12,9 +12,9 @@
 | `人工智能与计算思维` | 人工智能与计算思维课程相关作业和项目文件 |
 | `高等数学` | 高等数学课程笔记、作业、历年试卷与模拟题 |
 | `概率论与数理统计` | 概率论与数理统计课程笔记和知识要点 |
-| `Applied-Time-Series-Analysis` | 应用时间序列分析课程作业 |
+| `Applied-Time-Series-Analysis` | 应用时间序列分析课程笔记和作业 |
 
-其中，`Applied-Time-Series-Analysis` 目录目前包含两次课程作业：
+其中，`Applied-Time-Series-Analysis` 目录目前包含课程笔记和两次课程作业：
 
 - 应用时间序列分析课程作业 1
 - 应用时间序列分析课程作业 2
@@ -23,7 +23,7 @@
 
 - [高等数学](高等数学/README.md)：分为笔记、作业、试卷与模拟题三个部分。
 - [概率论与数理统计](概率论与数理统计/README.md)：包含课程笔记和知识要点。
-- [应用时间序列分析笔记](Applied-Time-Series-Analysis/笔记/README.md)：与课程作业分开保存，便于复习查阅。
+- [应用时间序列分析](Applied-Time-Series-Analysis/README.md)：课程笔记和作业统一保存在同一个课程目录中。
 
 ## 使用说明
 
@@ -37,7 +37,10 @@
 Personal-Course-Materials/
 ├── 计算概论B/
 ├── 人工智能与计算思维/
+├── 高等数学/
+├── 概率论与数理统计/
 ├── Applied-Time-Series-Analysis/
+│   ├── 应用时间序列分析笔记.pdf
 │   ├── 应用时间序列分析课程作业1...
 │   └── 应用时间序列分析课程作业2...
 └── README.md
