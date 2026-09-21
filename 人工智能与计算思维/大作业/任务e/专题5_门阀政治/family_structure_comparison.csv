@@ -1,3 +1,0 @@
-﻿group,n_persons,n_edges,n_components,largest_component_size,largest_component_ratio,avg_component_size,median_component_size,density,top1_size,top2_size,top3_size,top4_size,top5_size,top6_size,top7_size,top8_size,top9_size,top10_size
-魏晋,1617,1393,253,118,0.072975,6.39,4,0.00106618,118,56,45,32,31,30,28,25,21,20
-隋唐,40169,40246,4123,16546,0.41191,9.74,4,4.989e-05,16546,249,124,77,73,72,65,64,64,62
