@@ -1,0 +1,23 @@
+{
+  "task": "F-2 人物傳記自動生成",
+  "data_source": "output_cbdb_v1/",
+  "output_dir": "任务f\\专题2_人物传记",
+  "scope": "宋代 Top 1000 人物",
+  "statistics": {
+    "total": 1000,
+    "avg_one_liner_chars": 27.4,
+    "avg_bio_chars": 68.3,
+    "birth_coverage": 0.831,
+    "death_coverage": 0.878,
+    "place_coverage": 0.996,
+    "assoc_coverage": 0.997
+  },
+  "output_files": [
+    "bio_database.csv",
+    "bio_quality_report.csv",
+    "celebrities_bio.csv",
+    "bio_query.html",
+    "analysis_summary.json",
+    "README.md"
+  ]
+}

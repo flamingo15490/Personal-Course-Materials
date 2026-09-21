@@ -1,0 +1,99 @@
+﻿{
+  "social_network": {
+    "nodes": 44352,
+    "edges": 74365,
+    "density": 7.561e-05,
+    "avg_degree": 3.3534,
+    "components": 2024,
+    "lcc_size": 38370,
+    "lcc_ratio": 0.8651,
+    "avg_clustering": 0.088808
+  },
+  "kinship_network": {
+    "nodes": 284967,
+    "edges": 555863,
+    "density": 6.85e-06,
+    "avg_degree": 1.9506,
+    "components": 31869,
+    "lcc_size": 54231,
+    "lcc_ratio": 0.1903,
+    "avg_clustering": 0.0
+  },
+  "dynasty_comparison": [
+    {
+      "dynasty": "唐",
+      "nodes": 5937,
+      "edges": 8625,
+      "density": 0.00048947,
+      "avg_degree": 2.9055,
+      "avg_clustering": 0.094062,
+      "components": 573
+    },
+    {
+      "dynasty": "宋",
+      "nodes": 14238,
+      "edges": 23350,
+      "density": 0.00023038,
+      "avg_degree": 3.28,
+      "avg_clustering": 0.108717,
+      "components": 680
+    },
+    {
+      "dynasty": "明",
+      "nodes": 9739,
+      "edges": 19745,
+      "density": 0.00041639,
+      "avg_degree": 4.0548,
+      "avg_clustering": 0.092089,
+      "components": 820
+    }
+  ],
+  "song_community": {
+    "num": 26,
+    "max_size": 1695,
+    "min_size": 13,
+    "median_size": 358,
+    "top10": [
+      [
+        6,
+        1695
+      ],
+      [
+        2,
+        1388
+      ],
+      [
+        5,
+        1045
+      ],
+      [
+        14,
+        1036
+      ],
+      [
+        25,
+        940
+      ],
+      [
+        23,
+        918
+      ],
+      [
+        9,
+        716
+      ],
+      [
+        19,
+        668
+      ],
+      [
+        21,
+        651
+      ],
+      [
+        11,
+        608
+      ]
+    ]
+  }
+}

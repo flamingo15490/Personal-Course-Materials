@@ -1,0 +1,73 @@
+﻿{
+  "global_metrics": {
+    "nodes": 38370,
+    "edges": 70108,
+    "density": 9.524e-05,
+    "avg_degree": 3.6543,
+    "avg_clustering": 0.099082,
+    "avg_shortest_path": 5.762,
+    "diameter_estimate": 20
+  },
+  "dynasty_comparison": [
+    {
+      "dynasty": "唐",
+      "nodes": 5050,
+      "edges": 8298,
+      "full_nodes": 5937,
+      "components": 573,
+      "density": 0.00065089,
+      "avg_clustering": 0.107812,
+      "avg_shortest_path": 4.2152,
+      "diameter": 10
+    },
+    {
+      "dynasty": "宋",
+      "nodes": 12931,
+      "edges": 22676,
+      "full_nodes": 14236,
+      "components": 678,
+      "density": 0.00027125,
+      "avg_clustering": 0.117164,
+      "avg_shortest_path": 4.0686,
+      "diameter": 11
+    },
+    {
+      "dynasty": "明",
+      "nodes": 8415,
+      "edges": 19172,
+      "full_nodes": 9738,
+      "components": 819,
+      "density": 0.00054155,
+      "avg_clustering": 0.103794,
+      "avg_shortest_path": 4.4702,
+      "diameter": 11
+    }
+  ],
+  "six_degree_reach": {
+    "avg_reach": 0.982893,
+    "median_reach": 0.994973
+  },
+  "distance_distribution": {
+    "1": 1,
+    "2": 25,
+    "3": 264,
+    "4": 840,
+    "5": 1213,
+    "6": 1160,
+    "7": 753,
+    "8": 453,
+    "9": 174,
+    "10": 76,
+    "11": 25,
+    "12": 11,
+    "13": 1,
+    "14": 3,
+    "16": 1
+  },
+  "methodology": {
+    "avg_shortest_path": "sampled 5000 random pairs",
+    "diameter": "sampled 200 random nodes (eccentricity)",
+    "six_degree_reach": "sampled 1000 random starts",
+    "seed": 42
+  }
+}

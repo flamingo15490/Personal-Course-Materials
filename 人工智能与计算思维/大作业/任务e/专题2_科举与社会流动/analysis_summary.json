@@ -1,0 +1,68 @@
+{
+  "analysis_date": "2026-06-13T22:07:49.460004",
+  "dynasties_analyzed": [
+    "唐",
+    "宋"
+  ],
+  "teacher_student": {
+    "唐": {
+      "total_associations": 18867,
+      "teacher_student_count": 22,
+      "teacher_student_pct": 0.12,
+      "persons_involved": 20,
+      "avg_students_per_teacher": 1.22
+    },
+    "宋": {
+      "total_associations": 68404,
+      "teacher_student_count": 4353,
+      "teacher_student_pct": 6.36,
+      "persons_involved": 2237,
+      "avg_students_per_teacher": 2.03
+    }
+  },
+  "official_origins": {
+    "唐": {
+      "total_officials": 1678,
+      "north_count": 1385,
+      "south_count": 290,
+      "north_pct": 82.69,
+      "south_pct": 17.31,
+      "gini_coefficient": 0.6851
+    },
+    "宋": {
+      "total_officials": 15340,
+      "north_count": 3849,
+      "south_count": 11464,
+      "north_pct": 25.14,
+      "south_pct": 74.86,
+      "gini_coefficient": 0.7682
+    }
+  },
+  "identity_composition": {
+    "唐": {
+      "total_records": 7077,
+      "civil_pct": 36.15,
+      "military_pct": 1.82,
+      "keju_pct": 0.24,
+      "shannon": 1.9745
+    },
+    "宋": {
+      "total_records": 33886,
+      "civil_pct": 36.42,
+      "military_pct": 7.29,
+      "keju_pct": 1.63,
+      "shannon": 3.1802
+    }
+  },
+  "mobility_index": {
+    "southern_official_share_change": 57.55,
+    "teacher_student_density_change": 6.25,
+    "identity_diversity_change": 1.2057,
+    "normalized": {
+      "southern_official_share": 0.5755106138477598,
+      "teacher_student_density": 0.062470572300075335,
+      "identity_diversity": 0.37911462594514755
+    },
+    "composite_index": 0.339
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "sqlite_filename": "cbdb_20260606.sqlite3",
+  "sha256": "1c9563fdcf8404925af2862e5ea08e493ed853005676f9e23da9c5cc7e633461",
+  "generated_at_utc": "2026-06-06T19:11:29Z",
+  "format": "sqlite3",
+  "huggingface_path": "history/cbdb_202606/cbdb_20260606.zip",
+  "huggingface_url": "https://huggingface.co/datasets/cbdb/cbdb-sqlite/resolve/main/history/cbdb_202606/cbdb_20260606.zip"
+}

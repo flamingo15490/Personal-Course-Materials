@@ -1,0 +1,64 @@
+{
+  "family_structure": {
+    "wei_jin": {
+      "group": "魏晋",
+      "n_persons": 1617,
+      "n_edges": 1393,
+      "n_components": 253,
+      "largest_component_size": 118,
+      "largest_component_ratio": 0.072975,
+      "avg_component_size": 6.39,
+      "median_component_size": 4,
+      "density": 0.00106618
+    },
+    "sui_tang": {
+      "group": "隋唐",
+      "n_persons": 40169,
+      "n_edges": 40246,
+      "n_components": 4123,
+      "largest_component_size": 16546,
+      "largest_component_ratio": 0.41191,
+      "avg_component_size": 9.74,
+      "median_component_size": 4,
+      "density": 4.989e-05
+    }
+  },
+  "official_concentration": {
+    "wei_jin": {
+      "group": "魏晋",
+      "n_persons": 2643,
+      "n_officials": 170,
+      "official_ratio": 0.064321,
+      "lcc_size": 118,
+      "lcc_officials": 0,
+      "lcc_official_ratio": 0.0,
+      "shannon_diversity": 1.6979
+    },
+    "sui_tang": {
+      "group": "隋唐",
+      "n_persons": 58217,
+      "n_officials": 1843,
+      "official_ratio": 0.031657,
+      "lcc_size": 16546,
+      "lcc_officials": 1228,
+      "lcc_official_ratio": 0.074217,
+      "shannon_diversity": 2.8546
+    }
+  },
+  "surname_concentration": {
+    "wei_jin": {
+      "group": "魏晋",
+      "n_persons": 2643,
+      "top20_ratio": 0.61294,
+      "hhi": 0.033122,
+      "top5_in_lcc_ratio": 0.932203
+    },
+    "sui_tang": {
+      "group": "隋唐",
+      "n_persons": 58217,
+      "top20_ratio": 0.621605,
+      "hhi": 0.04021,
+      "top5_in_lcc_ratio": 0.510456
+    }
+  }
+}

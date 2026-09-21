@@ -1,0 +1,149 @@
+{
+  "total_persons": 658941,
+  "persons_with_nonzero_index": 517701,
+  "top10": [
+    {
+      "rank": 1,
+      "name": "朱熹",
+      "dynasty": "宋",
+      "influence": 0.7077,
+      "A_pagerank": 1.0,
+      "B_diversity": 1.0,
+      "C_spatial": 0.0002,
+      "D_identity": 0.3846,
+      "E_citations": 1.0
+    },
+    {
+      "rank": 2,
+      "name": "李白",
+      "dynasty": "唐",
+      "influence": 0.54,
+      "A_pagerank": 0.2727,
+      "B_diversity": 0.5617,
+      "C_spatial": 1.0,
+      "D_identity": 0.8462,
+      "E_citations": 0.1259
+    },
+    {
+      "rank": 3,
+      "name": "蘇軾",
+      "dynasty": "宋",
+      "influence": 0.5223,
+      "A_pagerank": 0.4065,
+      "B_diversity": 0.709,
+      "C_spatial": 0.6285,
+      "D_identity": 0.4615,
+      "E_citations": 0.4241
+    },
+    {
+      "rank": 4,
+      "name": "王安石",
+      "dynasty": "宋",
+      "influence": 0.3829,
+      "A_pagerank": 0.3696,
+      "B_diversity": 0.6335,
+      "C_spatial": 0.0018,
+      "D_identity": 0.6923,
+      "E_citations": 0.274
+    },
+    {
+      "rank": 5,
+      "name": "宋濂",
+      "dynasty": "明",
+      "influence": 0.373,
+      "A_pagerank": 0.4743,
+      "B_diversity": 0.6412,
+      "C_spatial": 0.0075,
+      "D_identity": 0.3846,
+      "E_citations": 0.2886
+    },
+    {
+      "rank": 6,
+      "name": "白居易",
+      "dynasty": "唐",
+      "influence": 0.3629,
+      "A_pagerank": 0.3131,
+      "B_diversity": 0.4787,
+      "C_spatial": 0.1666,
+      "D_identity": 0.7692,
+      "E_citations": 0.1637
+    },
+    {
+      "rank": 7,
+      "name": "黃庭堅",
+      "dynasty": "宋",
+      "influence": 0.3585,
+      "A_pagerank": 0.3544,
+      "B_diversity": 0.6574,
+      "C_spatial": 0.0138,
+      "D_identity": 0.4615,
+      "E_citations": 0.325
+    },
+    {
+      "rank": 8,
+      "name": "吳澄",
+      "dynasty": "元",
+      "influence": 0.3451,
+      "A_pagerank": 0.465,
+      "B_diversity": 0.6182,
+      "C_spatial": 0.0001,
+      "D_identity": 0.3077,
+      "E_citations": 0.2383
+    },
+    {
+      "rank": 9,
+      "name": "周必大",
+      "dynasty": "宋",
+      "influence": 0.3322,
+      "A_pagerank": 0.4339,
+      "B_diversity": 0.7007,
+      "C_spatial": 0.0043,
+      "D_identity": 0.0,
+      "E_citations": 0.407
+    },
+    {
+      "rank": 10,
+      "name": "杜甫",
+      "dynasty": "唐",
+      "influence": 0.321,
+      "A_pagerank": 0.2558,
+      "B_diversity": 0.4538,
+      "C_spatial": 0.1654,
+      "D_identity": 0.6923,
+      "E_citations": 0.1103
+    }
+  ],
+  "weights": {
+    "A_pagerank": 0.3,
+    "B_diversity": 0.2,
+    "C_spatial": 0.2,
+    "D_identity": 0.15,
+    "E_citations": 0.15
+  },
+  "textbook_match_rate": "38/52",
+  "textbook_missing": [
+    "孔子",
+    "孟子",
+    "荀子",
+    "老子",
+    "莊子",
+    "屈原",
+    "秦始皇",
+    "項羽",
+    "陶淵明",
+    "王陽明",
+    "曹雪芹",
+    "徐霞客",
+    "孫中山",
+    "魯迅"
+  ],
+  "top_dynasty_in_top200": "宋",
+  "over_represented_dynasties": [
+    "宋",
+    "元"
+  ],
+  "under_represented_dynasties": [
+    "明",
+    "清"
+  ]
+}
