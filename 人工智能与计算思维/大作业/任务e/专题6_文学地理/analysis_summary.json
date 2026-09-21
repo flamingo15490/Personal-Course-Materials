@@ -1,0 +1,150 @@
+{
+  "project": "E-6 文学群体的地理集聚——从长安到江南",
+  "dynasty_stats": [
+    {
+      "dynasty": "唐",
+      "literary_edges": 17476,
+      "participants": 5722
+    },
+    {
+      "dynasty": "五代",
+      "literary_edges": 64,
+      "participants": 90
+    },
+    {
+      "dynasty": "北宋",
+      "literary_edges": 16777,
+      "participants": 5413
+    },
+    {
+      "dynasty": "南宋",
+      "literary_edges": 9196,
+      "participants": 3497
+    },
+    {
+      "dynasty": "元",
+      "literary_edges": 7353,
+      "participants": 2867
+    },
+    {
+      "dynasty": "明",
+      "literary_edges": 30375,
+      "participants": 6145
+    },
+    {
+      "dynasty": "宋(未详)",
+      "literary_edges": 2505,
+      "participants": 2201
+    }
+  ],
+  "centroids": [
+    {
+      "dynasty": "唐",
+      "centroid_lon": 112.8913,
+      "centroid_lat": 34.1002,
+      "persons_geocoded": 1042,
+      "persons_total": 5722
+    },
+    {
+      "dynasty": "五代",
+      "centroid_lon": 114.2345,
+      "centroid_lat": 34.861,
+      "persons_geocoded": 62,
+      "persons_total": 90
+    },
+    {
+      "dynasty": "北宋",
+      "centroid_lon": 116.0714,
+      "centroid_lat": 30.9883,
+      "persons_geocoded": 4815,
+      "persons_total": 5413
+    },
+    {
+      "dynasty": "南宋",
+      "centroid_lon": 117.475,
+      "centroid_lat": 29.0832,
+      "persons_geocoded": 3206,
+      "persons_total": 3497
+    },
+    {
+      "dynasty": "元",
+      "centroid_lon": 117.0391,
+      "centroid_lat": 31.1464,
+      "persons_geocoded": 2537,
+      "persons_total": 2867
+    },
+    {
+      "dynasty": "明",
+      "centroid_lon": 117.2935,
+      "centroid_lat": 30.8375,
+      "persons_geocoded": 5756,
+      "persons_total": 6145
+    }
+  ],
+  "migration": [
+    {
+      "dynasty": "唐",
+      "centroid_lon": 112.8913,
+      "centroid_lat": 34.1002,
+      "migration_km": 0.0,
+      "direction": "—"
+    },
+    {
+      "dynasty": "五代",
+      "centroid_lon": 114.2345,
+      "centroid_lat": 34.861,
+      "migration_km": 149.4,
+      "direction": "北东"
+    },
+    {
+      "dynasty": "北宋",
+      "centroid_lon": 116.0714,
+      "centroid_lat": 30.9883,
+      "migration_km": 463.5,
+      "direction": "南"
+    },
+    {
+      "dynasty": "南宋",
+      "centroid_lon": 117.475,
+      "centroid_lat": 29.0832,
+      "migration_km": 251.3,
+      "direction": "南东"
+    },
+    {
+      "dynasty": "元",
+      "centroid_lon": 117.0391,
+      "centroid_lat": 31.1464,
+      "migration_km": 233.2,
+      "direction": "北"
+    },
+    {
+      "dynasty": "明",
+      "centroid_lon": 117.2935,
+      "centroid_lat": 30.8375,
+      "migration_km": 42.0,
+      "direction": "南东"
+    }
+  ],
+  "community_summary": {
+    "唐": {
+      "num_communities_detected": 10,
+      "cross_region_communities": 5,
+      "largest_community_size": 1170
+    },
+    "北宋": {
+      "num_communities_detected": 10,
+      "cross_region_communities": 5,
+      "largest_community_size": 915
+    },
+    "南宋": {
+      "num_communities_detected": 10,
+      "cross_region_communities": 1,
+      "largest_community_size": 771
+    },
+    "明": {
+      "num_communities_detected": 10,
+      "cross_region_communities": 5,
+      "largest_community_size": 1225
+    }
+  }
+}

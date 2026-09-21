@@ -1,0 +1,398 @@
+﻿{
+  "birthplace": {
+    "宋": {
+      "total": 56938,
+      "south": 48387,
+      "north": 8130,
+      "south_pct": 84.98,
+      "north_pct": 14.28,
+      "top10": [
+        {
+          "addr_chn": "開封",
+          "count": 1812,
+          "region": "北"
+        },
+        {
+          "addr_chn": "莆田",
+          "count": 1749,
+          "region": "南"
+        },
+        {
+          "addr_chn": "閩縣",
+          "count": 1396,
+          "region": "南"
+        },
+        {
+          "addr_chn": "晉江",
+          "count": 1223,
+          "region": "南"
+        },
+        {
+          "addr_chn": "鄞縣",
+          "count": 1089,
+          "region": "南"
+        },
+        {
+          "addr_chn": "永嘉",
+          "count": 829,
+          "region": "南"
+        },
+        {
+          "addr_chn": "福州",
+          "count": 816,
+          "region": "南"
+        },
+        {
+          "addr_chn": "建安",
+          "count": 645,
+          "region": "南"
+        },
+        {
+          "addr_chn": "廬陵",
+          "count": 608,
+          "region": "南"
+        },
+        {
+          "addr_chn": "洛陽",
+          "count": 598,
+          "region": "北"
+        }
+      ]
+    },
+    "元": {
+      "total": 11444,
+      "south": 6491,
+      "north": 4476,
+      "south_pct": 56.72,
+      "north_pct": 39.11,
+      "top10": [
+        {
+          "addr_chn": "真定",
+          "count": 196,
+          "region": "北"
+        },
+        {
+          "addr_chn": "廬陵",
+          "count": 162,
+          "region": "南"
+        },
+        {
+          "addr_chn": "大都路",
+          "count": 152,
+          "region": "北"
+        },
+        {
+          "addr_chn": "金華",
+          "count": 147,
+          "region": "南"
+        },
+        {
+          "addr_chn": "錢塘",
+          "count": 145,
+          "region": "南"
+        },
+        {
+          "addr_chn": "臨川",
+          "count": 144,
+          "region": "南"
+        },
+        {
+          "addr_chn": "吳縣",
+          "count": 139,
+          "region": "南"
+        },
+        {
+          "addr_chn": "浦江",
+          "count": 134,
+          "region": "南"
+        },
+        {
+          "addr_chn": "東陽",
+          "count": 116,
+          "region": "南"
+        },
+        {
+          "addr_chn": "義烏",
+          "count": 115,
+          "region": "南"
+        }
+      ]
+    },
+    "明": {
+      "total": 98349,
+      "south": 72464,
+      "north": 25179,
+      "south_pct": 73.68,
+      "north_pct": 25.6,
+      "top10": [
+        {
+          "addr_chn": "莆田",
+          "count": 2089,
+          "region": "南"
+        },
+        {
+          "addr_chn": "餘姚",
+          "count": 1982,
+          "region": "南"
+        },
+        {
+          "addr_chn": "歙縣",
+          "count": 1417,
+          "region": "南"
+        },
+        {
+          "addr_chn": "晉江",
+          "count": 1415,
+          "region": "南"
+        },
+        {
+          "addr_chn": "南昌",
+          "count": 1147,
+          "region": "南"
+        },
+        {
+          "addr_chn": "鄞縣",
+          "count": 1102,
+          "region": "南"
+        },
+        {
+          "addr_chn": "武進",
+          "count": 1055,
+          "region": "南"
+        },
+        {
+          "addr_chn": "山陰",
+          "count": 964,
+          "region": "南"
+        },
+        {
+          "addr_chn": "崑山",
+          "count": 962,
+          "region": "南"
+        },
+        {
+          "addr_chn": "閩縣",
+          "count": 960,
+          "region": "南"
+        }
+      ]
+    },
+    "清": {
+      "total": 185183,
+      "south": 121227,
+      "north": 61376,
+      "south_pct": 65.46,
+      "north_pct": 33.14,
+      "top10": [
+        {
+          "addr_chn": "大興",
+          "count": 5406,
+          "region": "北"
+        },
+        {
+          "addr_chn": "山陰",
+          "count": 2843,
+          "region": "南"
+        },
+        {
+          "addr_chn": "歙縣",
+          "count": 2595,
+          "region": "南"
+        },
+        {
+          "addr_chn": "宛平",
+          "count": 2539,
+          "region": "北"
+        },
+        {
+          "addr_chn": "會稽",
+          "count": 1922,
+          "region": "南"
+        },
+        {
+          "addr_chn": "錢塘",
+          "count": 1840,
+          "region": "南"
+        },
+        {
+          "addr_chn": "武進",
+          "count": 1832,
+          "region": "南"
+        },
+        {
+          "addr_chn": "海鹽",
+          "count": 1736,
+          "region": "南"
+        },
+        {
+          "addr_chn": "吳縣",
+          "count": 1727,
+          "region": "南"
+        },
+        {
+          "addr_chn": "仁和",
+          "count": 1589,
+          "region": "南"
+        }
+      ]
+    }
+  },
+  "activity_place": {
+    "宋": {
+      "total": 3992,
+      "south": 2742,
+      "north": 1222,
+      "south_pct": 68.69,
+      "north_pct": 30.61,
+      "mean_lat": 31.2,
+      "median_lat": 30.86
+    },
+    "元": {
+      "total": 839,
+      "south": 591,
+      "north": 219,
+      "south_pct": 70.44,
+      "north_pct": 26.1,
+      "mean_lat": 32.22,
+      "median_lat": 31.31
+    },
+    "明": {
+      "total": 22023,
+      "south": 14114,
+      "north": 6949,
+      "south_pct": 64.09,
+      "north_pct": 31.55,
+      "mean_lat": 31.52,
+      "median_lat": 31.01
+    },
+    "清": {
+      "total": 9125,
+      "south": 2442,
+      "north": 1207,
+      "south_pct": 26.76,
+      "north_pct": 13.23,
+      "mean_lat": 32.55,
+      "median_lat": 31.22
+    }
+  },
+  "south_migration": [
+    {
+      "dynasty": "宋",
+      "total_northerners": 7905,
+      "south_migrants": 237,
+      "pct": 3.0,
+      "top10_destinations": "吳縣(13); 錢塘(13); 鄞縣(7); 臨安府(7); 華陽(6); 餘杭(5); 廬陵(5); 長沙(5); 永嘉(4); 成都(4)"
+    },
+    {
+      "dynasty": "元",
+      "total_northerners": 4385,
+      "south_migrants": 60,
+      "pct": 1.37,
+      "top10_destinations": "鎮江路(10); 揚州路(5); 吳縣(4); 杭州路(4); 錢塘(3); 高郵府(2); 松江府(2); 玉山(2); 江都(1); 長林(1)"
+    },
+    {
+      "dynasty": "明",
+      "total_northerners": 24938,
+      "south_migrants": 275,
+      "pct": 1.1,
+      "top10_destinations": "嘉定州(11); 六安州(8); 江寧(7); 廣安州(7); 江都(7); 華亭(6); 南京(5); 雲南右衛(5); 廬陵(5); 信陽衛(4)"
+    },
+    {
+      "dynasty": "清",
+      "total_northerners": 58499,
+      "south_migrants": 90,
+      "pct": 0.15,
+      "top10_destinations": "四川省(6); 興安府(5); 安徽省(4); 揚州府(4); 餘姚(3); 吳縣(3); 武進(3); 江都(2); 蘇州府(2); 上海(2)"
+    }
+  ],
+  "cultural_centers": {
+    "宋": [
+      {
+        "addr_chn": "開封",
+        "cultural_interaction_count": 570
+      },
+      {
+        "addr_chn": "莆田",
+        "cultural_interaction_count": 260
+      },
+      {
+        "addr_chn": "洛陽",
+        "cultural_interaction_count": 236
+      },
+      {
+        "addr_chn": "鄞縣",
+        "cultural_interaction_count": 224
+      },
+      {
+        "addr_chn": "吳縣",
+        "cultural_interaction_count": 213
+      }
+    ],
+    "元": [
+      {
+        "addr_chn": "錢塘",
+        "cultural_interaction_count": 90
+      },
+      {
+        "addr_chn": "廬陵",
+        "cultural_interaction_count": 74
+      },
+      {
+        "addr_chn": "吳縣",
+        "cultural_interaction_count": 71
+      },
+      {
+        "addr_chn": "臨川",
+        "cultural_interaction_count": 70
+      },
+      {
+        "addr_chn": "杭州路",
+        "cultural_interaction_count": 58
+      }
+    ],
+    "明": [
+      {
+        "addr_chn": "華亭",
+        "cultural_interaction_count": 198
+      },
+      {
+        "addr_chn": "長洲",
+        "cultural_interaction_count": 193
+      },
+      {
+        "addr_chn": "莆田",
+        "cultural_interaction_count": 182
+      },
+      {
+        "addr_chn": "鄞縣",
+        "cultural_interaction_count": 177
+      },
+      {
+        "addr_chn": "歙縣",
+        "cultural_interaction_count": 169
+      }
+    ],
+    "清": [
+      {
+        "addr_chn": "歙縣",
+        "cultural_interaction_count": 195
+      },
+      {
+        "addr_chn": "鄞縣",
+        "cultural_interaction_count": 178
+      },
+      {
+        "addr_chn": "錢塘",
+        "cultural_interaction_count": 127
+      },
+      {
+        "addr_chn": "海鹽",
+        "cultural_interaction_count": 107
+      },
+      {
+        "addr_chn": "吳縣",
+        "cultural_interaction_count": 94
+      }
+    ]
+  }
+}

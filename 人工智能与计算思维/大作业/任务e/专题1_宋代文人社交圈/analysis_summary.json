@@ -1,0 +1,47 @@
+﻿{
+  "song_nodes": 13911,
+  "song_edges": 23350,
+  "lcc_nodes": 12931,
+  "num_communities": 29,
+  "modularity": 0.662521,
+  "core_persons_found": 12,
+  "cross_camp_count": 146,
+  "wang_anshi_community": 8,
+  "sima_guang_community": 0,
+  "su_shi_community": 2,
+  "wang_vs_sima_same": false,
+  "wang_vs_su_same": false,
+  "density_between_camps": 0.00022108,
+  "density_within_wang_comm": 0.00410664,
+  "density_within_sima_comm": 0.00202194,
+  "relation_comparison": {
+    "new_party": {
+      "文學交往": 197,
+      "墓誌傳記": 130,
+      "師生": 40,
+      "友人": 26,
+      "其他": 224
+    },
+    "old_party": {
+      "文學交往": 1050,
+      "墓誌傳記": 132,
+      "師生": 127,
+      "友人": 76,
+      "其他": 242
+    },
+    "new_party_pct": {
+      "文學交往": 31.9,
+      "墓誌傳記": 21.1,
+      "師生": 6.5,
+      "友人": 4.2,
+      "其他": 36.3
+    },
+    "old_party_pct": {
+      "文學交往": 64.5,
+      "墓誌傳記": 8.1,
+      "師生": 7.8,
+      "友人": 4.7,
+      "其他": 14.9
+    }
+  }
+}

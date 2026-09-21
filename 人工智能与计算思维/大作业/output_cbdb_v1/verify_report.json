@@ -1,0 +1,28 @@
+{
+  "row_counts": {
+    "dim_person": 659183,
+    "dim_address": 30100,
+    "fact_person_status": 71745,
+    "fact_person_address": 458403,
+    "fact_person_posting": 589875,
+    "fact_person_kin": 557907,
+    "fact_person_assoc": 189297
+  },
+  "primary_key_duplicates": {
+    "dim_person(c_personid)": 0,
+    "fact_person_status(c_personid,c_sequence,c_status_code)": 0,
+    "fact_person_address(c_personid,c_addr_id,c_addr_type,c_sequence)": 0,
+    "fact_person_kin(c_personid,c_kin_id,c_kin_code)": 0
+  },
+  "person_coverage": {
+    "status_persons": 55393,
+    "address_persons": 393390,
+    "posting_persons": 298398,
+    "kin_persons": 284278,
+    "assoc_persons": 44353
+  },
+  "dim_person_fix": {
+    "fixed": false,
+    "duplicate_rows": 0
+  }
+}
